@@ -11,5 +11,6 @@ while (i<1):
                 
         elif 'What are you?' in s:
                 print('I am a program, same as you.')
-
-
+        
+        elif 'What is your favourite coulour?' or 'What is your favourite colour?' in s:
+                print('Black')
