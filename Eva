@@ -1,0 +1,15 @@
+i=0
+while (i<1):
+
+        s = input('\n')
+
+        if 'your name?' in s:
+                print('Eva')
+                
+        elif 'how are you?' or 'How are you?' in s:
+                print('I am good.')
+                
+        elif 'What are you?' in s:
+                print('I am a program, same as you.')
+
+
