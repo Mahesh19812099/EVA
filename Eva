@@ -14,3 +14,6 @@ while (i<1):
         
         elif 'What is your favourite coulour?' or 'What is your favourite colour?' in s:
                 print('Black')
+        
+        elif 'Who do you like?' or 'Who do you like?' in s:
+                print('Everyone')
