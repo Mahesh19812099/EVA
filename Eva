@@ -17,3 +17,6 @@ while (i<1):
         
         elif 'Who do you like?' or 'Who do you like?' in s:
                 print('Everyone')
+        
+        elif 'Hi' or 'Hi!' or 'hi' or 'hi!' in s:
+                print(Hi);
